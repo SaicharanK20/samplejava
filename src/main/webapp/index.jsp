@@ -9,7 +9,7 @@
         <h1>Example of Automated DevOps CI/CD</h1>
         <h1>Code Commited:: GitLab -> Jenkins -> Maven -> Nexus</h1>
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 </h1>
-         <h2>charan 123</h2>
+         <h2>Saicharan</h2>
              <!--GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.-->
     </body>
 </html>
